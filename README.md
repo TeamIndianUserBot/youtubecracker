@@ -1,7 +1,7 @@
-# pkg install php
+`pkg install php`
 
-# git clone https://github.com/TeamIndianUserBot/youtubecracker
+`git clone https://github.com/TeamIndianUserBot/youtubecracker`
 
-# cd youtubecracker
+`cd youtubecracker`
 
-# php crack.php <URL YOUTUBE>
+`php crack.php YOUTUBE URL?>`
