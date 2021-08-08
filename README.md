@@ -2,6 +2,6 @@
 
 # git clone https://github.com/TeamIndianUserBot/youtubecracker
 
-# cd ceksubs
+# cd youtubecracker
 
-# php ceksubs.php <URL YOUTUBE>
+# php crack.php <URL YOUTUBE>
