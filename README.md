@@ -4,4 +4,4 @@
 
 `cd youtubecracker`
 
-`php crack.php YOUTUBE URL?>`
+`php crack.php (YOUTUBE URL)`
